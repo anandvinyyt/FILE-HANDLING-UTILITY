@@ -13,6 +13,7 @@
 *MENTOR* : NEELA SANTOSH
 
 
+
 File Handling Utility – Java Project :
 
 This Java-based File Handling Utility is a simple and practical application designed to perform essential file operations—reading, writing, and modifying text files. It demonstrates how Java’s file I/O capabilities can be effectively used to manage text data in a user-friendly way.
@@ -48,6 +49,6 @@ This utility serves as a learning tool for understanding how file operations wor
 
 - View or edit the file content as needed.
 
-  ✅ Deliverable :
+✅ Deliverable :
   
 A single Java script with clear, commented code demonstrating file reading, writing, and modification. All operations are organized into separate methods for clarity and reusability.
