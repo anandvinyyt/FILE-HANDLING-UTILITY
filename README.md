@@ -14,6 +14,7 @@
 
 
 File Handling Utility – Java Project :
+
 This Java-based File Handling Utility is a simple and practical application designed to perform essential file operations—reading, writing, and modifying text files. It demonstrates how Java’s file I/O capabilities can be effectively used to manage text data in a user-friendly way.
 
 🔧 Features
@@ -35,6 +36,7 @@ This Java-based File Handling Utility is a simple and practical application desi
 - Basic file path validation
 
 🎯 Objective :
+
 This utility serves as a learning tool for understanding how file operations work in Java. It is useful for Java beginners looking to grasp real-world applications of file handling and exception management.
 
 📝 Usage
@@ -47,4 +49,5 @@ This utility serves as a learning tool for understanding how file operations wor
 - View or edit the file content as needed.
 
   ✅ Deliverable :
+  
 A single Java script with clear, commented code demonstrating file reading, writing, and modification. All operations are organized into separate methods for clarity and reusability.
