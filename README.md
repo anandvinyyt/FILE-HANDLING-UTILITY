@@ -8,17 +8,17 @@
 *MENTOR* : NEELA SANTOSH
 
 
-File Handling Utility – Java Project
+File Handling Utility – Java Project :
 This Java-based File Handling Utility is a simple and practical application designed to perform essential file operations—reading, writing, and modifying text files. It demonstrates how Java’s file I/O capabilities can be effectively used to manage text data in a user-friendly way.
 
 🔧 Features
-Read content from any text file and display it on the console.
+- Read content from any text file and display it on the console.
 
-Write new content to a file (create new or overwrite existing files).
+- Write new content to a file (create new or overwrite existing files).
 
-Modify existing file content with user-defined changes (append, replace, or update specific lines).
+- Modify existing file content with user-defined changes (append, replace, or update specific lines).
 
-Handles file creation, exception handling, and user input gracefully.
+- Handles file creation, exception handling, and user input gracefully.
 
 📌 Technologies Used
 - Core Java (Java I/O API: File, FileReader, FileWriter, BufferedReader, BufferedWriter)
